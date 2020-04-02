@@ -1,0 +1,80 @@
+#title{
+  text-align: center
+}
+
+#wrapper{
+ 
+  display:grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  gird-emplate-row: 500px;
+  grid-gap: 10px;
+  justify-items: center
+}
+
+#pic{
+  width: 100%;
+  Gap:10px;
+  
+}
+
+#title{
+  color:purple;
+ font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Amiri', serif;
+  font-weight:bold;
+  font-size:70px;
+}
+#wrapper{
+  color:Black;
+  
+}
+
+#back{
+  color:purple;
+  font-weight:Bold;
+}
+
+#quote{
+  
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+  text-align:Left;
+  color:Purple;
+}
+
+#name{
+  font-size:40px;
+  font-family: 'Roboto Slab', serif;
+  text-align: left;
+  color:black;
+}
+
+#superlative{
+  font-size:26px;
+  font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Slab', serif;
+  text-align:left;
+  font-weight:40px;
+}
+
+#next{
+  color:purple;
+  font-weight:Bold;
+}
+h1{
+  color:Gray;
+  font-style:;
+}
+p{
+  color:Black;
+   text-align:left;
+  font-weight:40px;
+}
+
+#profile{
+  color:black;
+  text-align:Left;
+  Text-padding:10px;
+  
+}
